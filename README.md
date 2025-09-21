@@ -1,5 +1,4 @@
 ## Welcome
-I dabble in GameMaker and am currently working on a framework for Point and Click adventure games, called AGE (Adventure Game Engine).
 
 <table align="center">
     <tr>
